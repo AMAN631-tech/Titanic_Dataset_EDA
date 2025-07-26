@@ -20,6 +20,7 @@ Parch (parents/children aboard)
 Survived (Target variable: 0 = No, 1 = Yes)
 
  Tasks Performed
+ 
 🔹 **1. Data Cleaning**
 Checked and handled missing values in key columns (Age, Embarked, Cabin).
 
